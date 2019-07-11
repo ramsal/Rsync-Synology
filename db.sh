@@ -1,4 +1,5 @@
 #!/bin/bash
+#ramsal
 USER="myuser"
 KEY="/home/user/.ssh/mykey"
 PORT="22"
